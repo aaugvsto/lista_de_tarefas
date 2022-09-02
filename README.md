@@ -1,6 +1,6 @@
-# todo_list
+# Lista de Tarefas
 
-A new Flutter project.
+Lista de Tarefas desenvolvida em Flutter
 
 ## Getting Started
 
